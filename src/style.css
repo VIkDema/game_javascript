@@ -1,0 +1,9 @@
+.center {
+    position: relative;
+    padding: 10px; /* Поля вокруг текста */
+    margin: auto; /* Выравниваем по центру */
+}
+
+.bg_game {
+    background: black;
+}
